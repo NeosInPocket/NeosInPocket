@@ -5,9 +5,7 @@ Head Developer and Project Manager at SnapJoy Games.
 
 ## Projects
 
-- [DuelArena](https://github.com/NeosInPocket/DuelArena): online 1v1 mobile duel with Photon PUN
-- [Stranger](https://github.com/NeosInPocket/Stranger-Game-Unity): 2D action RPG, team project
-- [StateMachine](https://github.com/NeosInPocket/StateMachine): small state machine for Unity
+- [Letter Pop](https://github.com/NeosInPocket/Word-Blocks-Jam): mobile word puzzle, sole programmer
 
 **Stack:** Unity, C#, VContainer, Zenject, Photon, Git
 
